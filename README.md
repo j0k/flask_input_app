@@ -13,7 +13,7 @@ web app. That's why this repo exists.
 5. User gets the result of `special_f` in textarea in Output section.
 
 Function *special_f* adds **' world!'** to input string:
-```
+```python
 def special_f(text: str):    
     return "{0} {1}".format(text, "world!")
 ```
@@ -24,12 +24,12 @@ def special_f(text: str):
 
 # Run
 Linux:
-```
+```bash
 export FLASK_APP=app.py
 flask run
 ```
 Windows:
-```
+```bash
 set FLASK_APP=app.py
 flask run
 ```
