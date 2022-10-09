@@ -1,4 +1,4 @@
-# flask_input_app
+# Flask Input App
 Flask App which runs Python user-defined function for html-form input field and return result back to html text area as an output.
 
 For me it's an extremely common case to test and embed Python functionality into
