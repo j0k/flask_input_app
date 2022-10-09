@@ -12,6 +12,12 @@ web app. That's why this repo exists.
 4. Python user-defined function `special_f` executes on the input.
 5. User gets the result of `special_f` in textarea in Output section.
 
+Function *special_f* adds **' world!'** to input string:
+```
+def special_f(text: str):    
+    return "{0} {1}".format(text, "world!")
+```
+
 # Preview
 
 <img src="doc/html_browser.png" alt="alt text" width="600"/>
