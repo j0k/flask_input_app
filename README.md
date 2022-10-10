@@ -1,4 +1,4 @@
-# <img src="doc/icon.png" alt="alt text" width="80"/> Flask Input App
+# <img src="doc/input.gif" alt="alt text" width="80"/> Flask Input App
 Flask App which runs Python user-defined function for html-form input field and return result back to html text area as an output.
 
 For me it's an extremely common case to test and embed Python functionality into
